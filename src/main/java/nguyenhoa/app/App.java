@@ -96,7 +96,7 @@ public class App extends Application {
                 }
                 break;
             default:
-                break;
+                break; 
         }
     }
 
